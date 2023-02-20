@@ -10,7 +10,7 @@ const Header = ({ title, subtitle }) => {
       <Typography variant="h2" color={colors.greenAccent[100]}>
         {title}
       </Typography>
-        <Typography variant="h5">Welcome to {title}</Typography> 
+        <Typography variant="h5">Welcome to ffffffffffffff{title}</Typography> 
     </Box>
   );
 };
